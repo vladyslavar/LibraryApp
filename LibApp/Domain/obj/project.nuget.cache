@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PSrte5GooDvRgS+NHQUW13KQSQJ6Q9fXE7a15QQ6x0kTz4VODLj9873t4zNHsN2EzJhjuZmkI3/wN6ylKpqgA==",
+  "success": true,
+  "projectFilePath": "D:\\3\\dotNet\\third\\LibApp\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rozhk\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\rozhk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rozhk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rozhk\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.1\\swashbuckle.aspnetcore.5.6.1.nupkg.sha512",
+    "C:\\Users\\rozhk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.1\\swashbuckle.aspnetcore.swagger.5.6.1.nupkg.sha512",
+    "C:\\Users\\rozhk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.1\\swashbuckle.aspnetcore.swaggergen.5.6.1.nupkg.sha512",
+    "C:\\Users\\rozhk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.1\\swashbuckle.aspnetcore.swaggerui.5.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

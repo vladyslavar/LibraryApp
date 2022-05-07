@@ -1,0 +1,15 @@
+D:\3\dotNet\third\LibApp\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\3\dotNet\third\LibApp\Entities\bin\Debug\net5.0\Entities.dll
+D:\3\dotNet\third\LibApp\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\3\dotNet\third\LibApp\Entities\bin\Debug\net5.0\Entities.pdb
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.dll
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.pdb
+D:\3\dotNet\third\LibApp\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+D:\3\dotNet\third\LibApp\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+D:\3\dotNet\third\LibApp\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache

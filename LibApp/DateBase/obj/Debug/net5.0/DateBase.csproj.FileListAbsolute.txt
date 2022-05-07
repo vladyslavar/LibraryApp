@@ -1,0 +1,15 @@
+D:\3\dotNet\third\LibApp\DateBase\bin\Debug\net5.0\DateBase.deps.json
+D:\3\dotNet\third\LibApp\DateBase\bin\Debug\net5.0\DateBase.dll
+D:\3\dotNet\third\LibApp\DateBase\bin\Debug\net5.0\ref\DateBase.dll
+D:\3\dotNet\third\LibApp\DateBase\bin\Debug\net5.0\DateBase.pdb
+D:\3\dotNet\third\LibApp\DateBase\bin\Debug\net5.0\Entities.dll
+D:\3\dotNet\third\LibApp\DateBase\bin\Debug\net5.0\Entities.pdb
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.csproj.AssemblyReference.cache
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.AssemblyInfoInputs.cache
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.AssemblyInfo.cs
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.csproj.CoreCompileInputs.cache
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.dll
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\ref\DateBase.dll
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.pdb
+D:\3\dotNet\third\LibApp\DateBase\obj\Debug\net5.0\DateBase.csproj.CopyComplete
